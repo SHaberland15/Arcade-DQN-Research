@@ -1,3 +1,6 @@
 [submodule "Code/DQN/Ape-X/container_mount/code/distributed_rl"]
 	path = Code/DQN/Ape-X/container_mount/code/distributed_rl
 	url = https://github.com/neka-nat/distributed_rl.git
+[submodule "Code/DQN/SEED/container_mount/code/seed_rl"]
+	path = Code/DQN/SEED/container_mount/code/seed_rl
+	url = https://github.com/google-research/seed_rl.git
