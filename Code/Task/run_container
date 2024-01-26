@@ -1,0 +1,7 @@
+docker run -it --name Gameplay -h Gameplay --ipc=host \
+    -v YOUR_REPO_PATH/Arcade-DQN-Research/Code/Task:/workspace/Task \
+    -v YOUR_REPO_PATH/Arcade-DQN-Research/Code/DQN/ROMs: /workspace/ROMs \
+    -v /tmp/.X11-unix:/tmp/.X11-unix \
+    -e DISPLAY \
+    image_gameplay bash
+    # --device /dev/snd \

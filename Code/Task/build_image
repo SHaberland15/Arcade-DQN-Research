@@ -1,0 +1,1 @@
+docker build -t image_gameplay -f dockerfile . 
