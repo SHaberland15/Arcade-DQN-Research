@@ -1,4 +1,5 @@
 # Arcade-DQN-Research
+[![DOI](https://zenodo.org/badge/748601929.svg)](https://doi.org/10.5281/zenodo.14845862)
 Associated Repository for the [manuskript]().
 
 <div style="text-align:center;">
